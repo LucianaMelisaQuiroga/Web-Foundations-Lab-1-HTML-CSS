@@ -1,4 +1,4 @@
-# fundamentosWeb_laboratorio1
+# Fundamentos Web - Laboratorio 1
 ***
 ## Ejercicio de práctica, laboratorio de fundamentos de HTML y CSS del curso en Educación IT 
 
