@@ -5,7 +5,7 @@
 En este laboratorio practico lo aprendido. <br> 
 Recibí el requerimiento y lo realicé en HTML y CSS. 
 
-<img src="requerimiento1.jpg" width="50" alt="Imagen de requerimiento" > 
+<img src="requerimiento1.jpg" width="500" alt="Imagen de requerimiento" > 
 
 <ol> 
   <li>1. Crear un archivo llamado index.html, colocar el texto "Laboratorio 1" en la etiqueta TITLE y visualizar el mismo en la pestaña del navegador.</li>
