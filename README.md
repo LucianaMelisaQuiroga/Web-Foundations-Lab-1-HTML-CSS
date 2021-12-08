@@ -5,7 +5,7 @@
 En este laboratorio practico lo aprendido. <br> 
 Recibí el requerimiento y lo realicé en HTML y CSS. 
 
-#### Mi Resultado: <video src="https://drive.google.com/file/d/1kQDr7wim5K7lzbGq6p3txPJNPZ4ZvTc9/view?usp=sharing" width=320  height=240> 
+#### Mi Resultado: <video src="Mi Resultado Laboratorio 1 - HTML y CSS.mp4" width=320  height=240> 
 
 #### Requerimiento y Consigna: 
 <img src="requerimiento1.jpg" width="1000" alt="Imagen de requerimiento" > 
