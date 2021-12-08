@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;700&family=MuseoModerno:wght@700&display=swap');
+
+body {
+    background-color: #edf7ff;
+}
+
+h1, h3 , h4{
+    font-family: 'MuseoModerno', cursive; 
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    color: #0a2ff1;
+}
+
+h1 {
+    font-size: 117.70px;
+}
+
+h2, p, ul {
+    font-family: 'Asap', sans-serif;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 51.98px;
+}
+
+h3 {
+    font-size: 48px;
+}
+
+p, ul {
+    font-size: 33.33px;
+    color: #04146c;
+}
+
+ul {
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 199.17px;
+    color: #8a9af1;
+}
+
+/* CONVIERTO A PX:
+museomoderno bold 88,28pt == 117,70px #0a2ff1
+museomoderno bold 36pt == 48px #0a2ff1
+museomoderno bold 149,38pt == 199,17px #8a9af1
+asap regular 38,99pt == 51,98px #0a2ff1
+asap 25pt == 33,33px #04146c
+asap bold 25pt == 33,33px #04146c
+https://pixelsconverter.com/pt-to-px */ 
