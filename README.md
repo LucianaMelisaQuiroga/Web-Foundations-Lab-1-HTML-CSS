@@ -17,4 +17,4 @@ Recibí el requerimiento y lo realicé en HTML y CSS.
   <li>Utilizar las tipografías y sus variantes (bold, regular) correctamente desde Google Fonts.</li>
 </ol>
 
-A medida que aprendo más en profundidad, mi idea es continuar trabajando en nuevos laboratorios, e ir optimizando los ya existentes. 
+## A medida que aprendo más en profundidad, mi idea es continuar trabajando en nuevos laboratorios, e ir optimizando los ya existentes. 
